@@ -342,6 +342,7 @@
 
 1. Incluye el enlace al repositorio remoto en este punto para que el profesor pueda acceder a él.
    ```
+   hasta aqui he sido capaz de hacer, no encuentro la forma de hacer los ejercicios del punto 2, no se hacerlo.
    https://github.com/mario0209daw/UT2.1.a/commits?author=mario0209daw&since=2024-11-30&until=2024-12-15
     
     ``` 
