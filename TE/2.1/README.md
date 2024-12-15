@@ -256,8 +256,10 @@
 2. Agrega el repositorio remoto a tu repositorio local. Explica cómo lo haces, y `adjunta una imagen donde se visualizen las url's`<br>
     ![Repositorio remoto](img/02.2.png)
 
-   ```text
-    // Comentario
+   ```
+   desde visual estudio code, poner arriba >git clone, y luego pegas la url esta:
+   https://github.com/mario0209daw/EEDD_MARIOGUERREROSALINERO_TE2.1.git
+   y despues guardas el repositorio en la carpeta que quieras.
     
     ``` 
 
@@ -339,7 +341,7 @@
 ### 3. Enlace repositorio remoto
 
 1. Incluye el enlace al repositorio remoto en este punto para que el profesor pueda acceder a él.
-   ```text
-    // Enlace al repositorio remoto (en que aparece en la URL del navegador)
+   ```
+   https://github.com/mario0209daw/UT2.1.a/commits?author=mario0209daw&since=2024-11-30&until=2024-12-15
     
     ``` 
